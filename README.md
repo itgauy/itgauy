@@ -17,6 +17,11 @@
 </div>
 <br><br><br><br>
 <div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/itgauy/count.svg)
+</div>
+
+<div align="center">
 <sup>---------- End for now ----------</sup><br>
 </div>
 
