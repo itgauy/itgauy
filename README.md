@@ -19,8 +19,9 @@
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/itgauy/count.svg)
+<br>Number of Stressed React
 </div>
-
+<br>
 <div align="center">
 <sup>---------- End for now ----------</sup><br>
 </div>
