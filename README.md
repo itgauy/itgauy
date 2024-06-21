@@ -2,8 +2,6 @@
 
 <h1 align="center"> I T G A U Y </h1>
 
-<div align="center"> Readme is still underconstruction </div><br><br><br>
-
 <div align="center">
   
 ![itgauy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itgauy&theme=graywhite&hide_border=true&border_radius=15)
