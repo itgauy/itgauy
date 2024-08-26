@@ -1,7 +1,9 @@
 ### Readme
 
 <h1 align="center"> I T G A U Y </h1>
-
+<div align="center">
+<img src="https://github.com/itgauy/itgauy/blob/main/assets/cover.png" />
+</div>
 <div align="center">
   
 ![itgauy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itgauy&theme=graywhite&hide_border=true&border_radius=15)
@@ -13,7 +15,13 @@
 
 [![itgauy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itgauy&theme=minimal&line=5D5D5D&point=000000&custom_title=contribution+graph&radius=16&width=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
+
+<div align="center">
+<img height="70" src="https://github.com/itgauy/itgauy/blob/main/assets/itgauy-logo-s.png" />
+</div>
+
 <br><br><br><br>
+
 <div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/itgauy/count.svg)
@@ -21,7 +29,6 @@
 </div>
 <br>
 <div align="center">
-<sup>---------- End for now ----------</sup><br>
 </div>
 
 ```
