@@ -4,6 +4,7 @@
 <div align="center">
 <img src="https://github.com/itgauy/itgauy/blob/main/assets/cover.png" />
 </div>
+<br>
 <div align="center">
   
 ![itgauy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itgauy&theme=graywhite&hide_border=true&border_radius=15)
