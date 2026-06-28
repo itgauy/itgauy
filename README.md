@@ -3,7 +3,7 @@
 <h1 align="center"> I T G A U Y </h1>
 <h6 align="center">Use light mode for better experience ☼</h6>
 <div align="center">
-<img src="https://github.com/itgauy/itgauy/blob/main/assets/cover.png" />
+<img src="https://github.com/itgauy/itgauy/blob/main/assets/cover-1.png" />
 </div>
 <br>
 <div align="center">
